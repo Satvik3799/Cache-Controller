@@ -1,0 +1,1 @@
+When there is a Cache Hit, we can see that from the current instruciton, we wantedd 0th offset which is the 66778899.

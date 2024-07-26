@@ -1,0 +1,4 @@
+Warning (10273): Verilog HDL warning at cache_controller.v(84): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v Line: 84
+Warning (10273): Verilog HDL warning at cache_controller.v(85): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v Line: 85
+Warning (10273): Verilog HDL warning at cache_controller.v(92): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v Line: 92
+Warning (10273): Verilog HDL warning at cache_controller.v(101): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v Line: 101

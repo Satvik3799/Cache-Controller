@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/M_tech/IITB/Projects/Cache Controller/I-Cache/Design_Files/simulation/modelsim
+vcache_controller
+Z1 !s110 1722019376
+!i10b 1
+!s100 ;N0h]llP[G^d<T]9Sd5Ld2
+I_=m[h:gfNfQ^S=bIM83a93
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1722018806
+8F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v
+FF:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1722019376.000000
+!s107 F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files|F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files/cache_controller.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Source_Files}
+Z6 tCvgOpt 0
+vtb_cache_controller
+R1
+!i10b 1
+!s100 PL99enGVVDPjYZ^]bO@3=3
+IC=YRmdBgNN?TG88nSoJHX0
+R2
+R0
+w1722019309
+8F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Design_Files/../Source_Files/tb_cache_controller.v
+FF:/M_tech/IITB/Projects/Cache Controller/I-Cache/Design_Files/../Source_Files/tb_cache_controller.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Design_Files/../Source_Files/tb_cache_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Design_Files/../Source_Files|F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Design_Files/../Source_Files/tb_cache_controller.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work {+incdir+F:/M_tech/IITB/Projects/Cache Controller/I-Cache/Design_Files/../Source_Files}
+R6

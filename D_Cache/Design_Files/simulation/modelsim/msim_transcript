@@ -1,0 +1,97 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do cache_controller_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+F:/M_tech/IITB/Projects/Cache\ Controller/D_Cache/Source_Files {F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:54:58 on Jul 27,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files" F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v 
+# -- Compiling module cache_controller
+# ** Error: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v(92): (vlog-2730) Undefined variable: 'state'.
+# ** Error: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v(92): (vlog-2730) Undefined variable: 'CACHE_UPDATE'.
+# ** Error: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v(102): 'CACHE_UPDATE' already declared in this scope.
+# ** Error (suppressible): F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v(103): (vlog-2388) 'state' already declared in this scope (cache_controller).
+# End time: 01:54:58 on Jul 27,2024, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./cache_controller_run_msim_rtl_verilog.do line 8
+# C:/intelFPGA/18.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+F:/M_tech/IITB/Projects/Cache\ Controller/D_Cache/Source_Files {F:/M_tech/IITB/Projects/Cache Controller/D_Cache..."
+do cache_controller_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+F:/M_tech/IITB/Projects/Cache\ Controller/D_Cache/Source_Files {F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:56:26 on Jul 27,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files" F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v 
+# -- Compiling module cache_controller
+# 
+# Top level modules:
+# 	cache_controller
+# End time: 01:56:26 on Jul 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+F:/M_tech/IITB/Projects/Cache\ Controller/D_Cache/Design_Files/../Source_Files {F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Design_Files/../Source_Files/tb_cache_controller.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:56:26 on Jul 27,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Design_Files/../Source_Files" F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Design_Files/../Source_Files/tb_cache_controller.v 
+# -- Compiling module tb_cache_controller
+# 
+# Top level modules:
+# 	tb_cache_controller
+# End time: 01:56:26 on Jul 27,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  tb_cache_controller
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" tb_cache_controller 
+# Start time: 01:56:27 on Jul 27,2024
+# Loading work.tb_cache_controller
+# Loading work.cache_controller
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Design_Files/../Source_Files/tb_cache_controller.v(101)
+#    Time: 200 ns  Iteration: 0  Instance: /tb_cache_controller
+# Break in Module tb_cache_controller at F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Design_Files/../Source_Files/tb_cache_controller.v line 101
+add wave -position insertpoint  \
+sim:/tb_cache_controller/uut/cache_VALID \
+sim:/tb_cache_controller/uut/cache_DIRTY \
+sim:/tb_cache_controller/uut/cache_TAG \
+sim:/tb_cache_controller/uut/cache_DATA \
+sim:/tb_cache_controller/uut/VALID \
+sim:/tb_cache_controller/uut/DIRTY \
+sim:/tb_cache_controller/uut/TAG \
+sim:/tb_cache_controller/uut/DATA \
+sim:/tb_cache_controller/uut/compare \
+sim:/tb_cache_controller/uut/HIT \
+sim:/tb_cache_controller/uut/state
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Design_Files/../Source_Files/tb_cache_controller.v(101)
+#    Time: 200 ns  Iteration: 0  Instance: /tb_cache_controller
+# Break in Module tb_cache_controller at F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Design_Files/../Source_Files/tb_cache_controller.v line 101
+# End time: 01:58:41 on Jul 27,2024, Elapsed time: 0:02:14
+# Errors: 0, Warnings: 0

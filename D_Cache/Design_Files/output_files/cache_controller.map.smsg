@@ -1,0 +1,9 @@
+Warning (10273): Verilog HDL warning at cache_controller.v(75): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 75
+Warning (10273): Verilog HDL warning at cache_controller.v(76): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 76
+Warning (10273): Verilog HDL warning at cache_controller.v(139): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 139
+Warning (10273): Verilog HDL warning at cache_controller.v(140): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 140
+Warning (10273): Verilog HDL warning at cache_controller.v(148): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 148
+Warning (10273): Verilog HDL warning at cache_controller.v(163): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 163
+Warning (10273): Verilog HDL warning at cache_controller.v(164): extended using "x" or "z" File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 164
+Info (10281): Verilog HDL Declaration information at cache_controller.v(13): object "mem_read" differs only in case from object "MEM_READ" in the same scope File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 13
+Info (10281): Verilog HDL Declaration information at cache_controller.v(13): object "mem_write" differs only in case from object "MEM_WRITE" in the same scope File: F:/M_tech/IITB/Projects/Cache Controller/D_Cache/Source_Files/cache_controller.v Line: 13

@@ -1,0 +1,417 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "readdata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "readdata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_read",
+					"strict" : false
+				},
+				{
+					"name" : "mem_write",
+					"strict" : false
+				},
+				{
+					"name" : "BUSY",
+					"strict" : false
+				},
+				{
+					"name" : "mem_address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_address[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_address[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_address[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[8]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[9]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[10]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[11]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[12]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[13]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[14]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[15]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[16]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[17]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[18]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[19]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[20]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[21]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[22]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[23]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[24]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[25]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[26]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[27]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[28]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[29]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[30]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_writedata[31]",
+					"strict" : false
+				},
+				{
+					"name" : "address[4]",
+					"strict" : false
+				},
+				{
+					"name" : "address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "address[3]",
+					"strict" : false
+				},
+				{
+					"name" : "address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "address[6]",
+					"strict" : false
+				},
+				{
+					"name" : "address[7]",
+					"strict" : false
+				},
+				{
+					"name" : "read",
+					"strict" : false
+				},
+				{
+					"name" : "address[5]",
+					"strict" : false
+				},
+				{
+					"name" : "address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "write",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[24]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[8]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[16]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[25]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[9]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[17]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[26]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[10]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[18]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[27]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[11]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[19]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[28]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[12]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[20]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[29]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[13]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[21]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[30]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[14]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[22]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "writedata[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[31]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[15]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_readdata[23]",
+					"strict" : false
+				},
+				{
+					"name" : "mem_BUSY",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,6 @@
+
+State Machine - |cache_controller|state
+Name state.IDLE state.CACHE_UPDATE state.MEM_READ 
+state.IDLE 0 0 0 
+state.MEM_READ 1 0 1 
+state.CACHE_UPDATE 1 1 0 
