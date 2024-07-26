@@ -22,14 +22,14 @@ This repository contains two cache designs: `D_cache` (Data Cache) and `I_cache`
 
 ### Data Cache
 #### Resource Usage
-![D_resource](D_cache/images/D_resource.png)
+![D_resource](https://github.com/Satvik3799/Cache-Controller/blob/master/D_Cache/Images/D_resource.png)
 
 #### Simulation Waveform
-![D_wave](D_cache/images/D_wave.png)
+![D_wave](https://github.com/Satvik3799/Cache-Controller/blob/master/D_Cache/Images/D_wave.png)
 
 ### Instruction Cache
 #### Resource Usage
-![I_resource](I_cache/images/I_resource.png)
+![I_resource](https://github.com/Satvik3799/Cache-Controller/blob/master/I_Cache/Images/I_resource.png)
 
 #### Simulation Waveform
-![I_wave](I_cache/images/I_wave.png)
+![I_wave](https://github.com/Satvik3799/Cache-Controller/blob/master/I_Cache/Images/I_wave.png)
